@@ -57,7 +57,7 @@
     "duplexify": "^3.2.0",
     "extend": "^2.0.0",
     "gce-images": "^0.1.0",
-    "google-auth-library": "^0.9.4",
+    "google-auth-library": "authbox-lib/google-auth-library-nodejs#655afa5a218c40a5a0aeba21c8656ccf72793bd1",
     "is": "^3.0.1",
     "methmeth": "^1.0.0",
     "mime-types": "^2.0.8",
